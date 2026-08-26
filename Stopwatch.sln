@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{CB4CE8C6-1BDB-4DC7-A4D3-65A1999772F8}") = "Stopwatch", "Stopwatch.vbdproj", "{AB1E314F-AA0D-4DB4-B265-AD585854F8AC}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{AB1E314F-AA0D-4DB4-B265-AD585854F8AC}.Debug.ActiveCfg = Debug|Pocket PC
+		{AB1E314F-AA0D-4DB4-B265-AD585854F8AC}.Debug.Build.0 = Debug|Pocket PC
+		{AB1E314F-AA0D-4DB4-B265-AD585854F8AC}.Debug.Deploy.0 = Debug|Pocket PC
+		{AB1E314F-AA0D-4DB4-B265-AD585854F8AC}.Release.ActiveCfg = Release|Pocket PC
+		{AB1E314F-AA0D-4DB4-B265-AD585854F8AC}.Release.Build.0 = Release|Pocket PC
+		{AB1E314F-AA0D-4DB4-B265-AD585854F8AC}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

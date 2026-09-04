@@ -16,6 +16,10 @@ Stopwatch is a Pocket PC WinForms app with three independent row timers plus a m
 
 Open `Stopwatch.sln` in Visual Studio .NET 2003 with Smart Device Extensions (Pocket PC). Later Visual Studio versions do not load `.vbdproj` device projects.
 
+## Requirements
+
+- Visual Studio 2005
+
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `Stopwatch`. Assembly attributes (title, description, company, product, copyright) are empty Visual Studio template defaults. Solution format 8.00 / project ProductVersion 7.10.3077.

@@ -22,7 +22,7 @@ Open `Stopwatch.sln` in Visual Studio .NET 2003 with Smart Device Extensions (Po
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `Stopwatch`. Assembly attributes (title, description, company, product, copyright) are empty Visual Studio template defaults. Solution format 8.00 / project ProductVersion 7.10.3077.
+Working copy from my Historical Dev folder `Stopwatch`. Assembly attributes (title, description, company, product, copyright) are empty Visual Studio template defaults. Solution format 8.00 / project ProductVersion 7.10.3077.
 
 ## License
 
